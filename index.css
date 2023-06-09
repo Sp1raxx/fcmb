@@ -148,8 +148,9 @@ a:link{text-decoration: none;}
     margin-right: 70px;
 }
 #xc{
-    margin-left: 800px;
+    margin-left: 680px;
     display: inline-flex;
+    font-size: larger;
 }
 #uh{
     margin-top: 5px;
@@ -158,6 +159,9 @@ a:link{text-decoration: none;}
 #zc{
     margin-top: 10px;
     color: rgb(60, 87, 177);
+    margin-left: 40px;
+    font-size: 15px;
+    margin-right: -10px;
 }
 #tg{
     margin-left: 100px;
@@ -178,4 +182,8 @@ a:link{text-decoration: none;}
 }
 #tf{
     margin-top: 10px;
+}
+#uh{
+    margin-right: 30px;
+    font-size: 30px;
 }
